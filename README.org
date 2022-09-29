@@ -1,0 +1,11 @@
+
+** 简介
+
+本仓库用来存放2020-2021年S1部分高楼的纯文本归档，以50楼为一份文件，不会再更新。
+
+2022年的内容参见：https://github.com/TomoeMami/S1PlainTextArchive2022
+
+及时更新的帖子内容参见：https://github.com/TomoeMami/S1PlainTextBackup
+
+限制频率为20次每分钟的简易网页搜索：http://175.27.249.201:8000/
+
